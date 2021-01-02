@@ -1,0 +1,8 @@
+logs/*
+api.json
+bin/*
+godot-cpp/bin/*
+godot/__pycache__/*
+fps/bin/x11/*
+fps/bin/win64/*
+fps/bin/osx/*
